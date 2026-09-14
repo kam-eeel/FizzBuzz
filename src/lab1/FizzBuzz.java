@@ -7,6 +7,10 @@ class FizzBuzz {
 
     public static void main(String[] args) {
 
+        doFizzBuzzLoop();
+    }
+
+    public static void doFizzBuzzLoop() {
         int i = 0;
         while (i <= 100) {
 
